@@ -6,3 +6,6 @@ var numero2 = 5;
 
 var resultado = (numero + numero2);
 alert(resultado);
+
+
+alert('Hello world')
